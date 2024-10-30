@@ -21,4 +21,4 @@ Sou mãe. Gosto de jogar videogame, assistir séries e filmes, cultivar plantas,
 
 ### 📊 **GitHub Stats**  
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=estherbreia&theme=default&bg_color=FFC0CB&border_color=FFC0CB&show_icons=true&icon_color=000000&title_color=000000&text_color=000000)  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=estherbreia&theme=default&bg_color=FFC0CB&border_color=FFC0CB&show_icons=true&icon_color=000000&title_color=000000&text_color=000000)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=estherbreia&theme=default&bg_color=FFC0CB&border_color=FFC0CB&show_icons=true&icon_color=000000&title_color=000000&text_color=000000)  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=estherbreia&theme=default&bg_color=FFC0CB&border_color=FFC0CB&show_icons=true&icon_color=000000&title_color=000000&text_color=000000&langs_count=10)

@@ -10,7 +10,7 @@ Sou mãe. Gosto de jogar videogame, assistir séries e filmes, cultivar plantas,
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-pink?style=for-the-badge&logo=linkedin&logoColor=black)](https://www.linkedin.com/in/esther-breia-87982597) 
 [![Instagram](https://img.shields.io/badge/-Instagram-pink?style=for-the-badge&logo=instagram&logoColor=black)](https://www.instagram.com/estherbreia/)
 [![Gmail](https://img.shields.io/badge/Gmail-pink?style=for-the-badge&logo=gmail&logoColor=black)](mailto:estherbreia@gmail.com)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-pink?style=for-the-badge&logo=whatsapp&logoColor=black)](https://wa.me/5547997022709) 
+
 <br>
 ### 🛠 **Ferramentas e Tecnologias (em aprendizagem)**
 ![Python](https://img.shields.io/badge/python-pink?style=for-the-badge&logo=python&logoColor=black) 

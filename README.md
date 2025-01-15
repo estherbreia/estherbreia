@@ -13,6 +13,7 @@ Sou mãe. Gosto de jogar videogame, assistir séries e filmes, cultivar plantas,
 <br>
 
 ### 🛠 **Ferramentas e Tecnologias (em aprendizagem)**
+![MySQL](https://img.shields.io/badge/mysql-pink?style=for-the-badge&logo=mysql&logoColor=black) 
 ![Python](https://img.shields.io/badge/python-pink?style=for-the-badge&logo=python&logoColor=black) 
 ![JavaScript](https://img.shields.io/badge/JavaScript-pink?style=for-the-badge&logo=javascript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML5-pink?style=for-the-badge&logo=html5&logoColor=black)
